@@ -1,0 +1,18 @@
+header {
+  background: #222;
+  color: white;
+  padding: 40px;
+}
+
+/* Profile photo styling */
+.profile-img {
+  width: 150px;        /* resize photo here */
+  height: 150px;
+  border-radius: 50%;  /* makes it circular */
+  object-fit: cover;  /* prevents stretching */
+  margin-bottom: 15px;
+}
+
+section {
+  padding: 20px;
+}
